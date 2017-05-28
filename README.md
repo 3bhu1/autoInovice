@@ -17,3 +17,25 @@ This intelligent character recognition using advanced OCR-technology allows you 
 The Automated Invoice Processing software reduces manual work to a minimum. With Automated Invoice Processing, the number of human errors will be reduced and your data quality substantially raised.
 
 Code is written in SAPUI5. Primarily can be used with SAP ERP.
+
+*Source- Lexmark
+
+# Description
+Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine.
+
+This library supports over 60 languages, automatic text orientation and script detection, a simple interface for reading paragraph, word, and character bounding boxes. Tesseract.js can run either in a browser and on a server with NodeJS.
+
+This demonstration is based on below invoice type. As per requirement this can be customized. For better illustration please use the image invoice from below link.
+https://www.invoiceninja.com/wp-content/uploads/2015/03/Invoice-1564-Creative-page-001.jpg
+
+# Steps
+
+Access URL https://3bhu1.github.io/
+
+Browse and Upload image downloaded from https://www.invoiceninja.com/wp-content/uploads/2015/03/Invoice-1564-Creative-page-001.jpg
+
+Click on 'Process Invoice' Button
+
+You will see the recognized text from the image in second window. And required extracted information from text in third window, which further can be used in many ways.
+
+Happy Coding. :)
