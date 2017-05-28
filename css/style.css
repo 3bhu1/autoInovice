@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio|Yanone+Kaffeesatz');
+.sapUiTheme-sap_bluecrystal {
+font-family: 'Barrio', cursive;
+}
+.sapUiGlobalBackgroundColor {
+	/*background-color: #C63D0F !important;*/
+	/*background-image: url("http://www.issme.net/assets/img/layerslider/bg2.jpg") !important;*/
+}
+.sapMFlexBox{
+	background-position: center;
+    border-left: 6px solid #C63D0F;
+    background-color: #FDF3E7;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+	/*font-family: 'Barrio', cursive;*/
+	margin: 2px;
+}
+.sapUiFup{
+	
+}
+.sapMFlexItem{
+	margin: 5px;
+}
+.sapMIBar.sapMHeader-CTX{
+	background-color: rgba(0,0,0,.75);
+	border: none;
+	text-shadow: none;
+	box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+	color: #FFF;
+	
+}
+.sapMIBar-CTX .sapMTitle {
+    color: #FFF;
+    text-shadow: none;
+	/*font-family: 'Barrio', cursive;*/
+}
+.sapMIBar-CTX .sapMBtnInner {
+    color: #FFF;
+    text-shadow: none;
+}
+.sapMBtnIcon {
+    color: #FFF;
+}
