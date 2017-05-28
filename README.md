@@ -12,7 +12,7 @@ At the ultimate level of Invoice Processing automation, the invoice is automatic
 
 The whole process of Automated Invoice Processing is streamlined and fully automated.
 
-ReadSoft Invoice Processing software is unique since it can recognize new incoming invoices and figure out which fields to interpret. This intelligent character recognition using advanced OCR-technology allows you to get an automated optimized invoice flow enabling huge savings in time and money.
+This intelligent character recognition using advanced OCR-technology allows you to get an automated optimized invoice flow enabling huge savings in time and money.
 
 The Automated Invoice Processing software reduces manual work to a minimum. With Automated Invoice Processing, the number of human errors will be reduced and your data quality substantially raised.
 
