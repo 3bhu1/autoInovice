@@ -39,3 +39,5 @@ Click on 'Process Invoice' Button
 You will see the recognized text from the image in second window. And required extracted information from text in third window, which further can be used in many ways.
 
 Happy Coding. :)
+
+# a 3bhu1 creation
