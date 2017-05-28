@@ -35,6 +35,7 @@ Access URL https://3bhu1.github.io/
 Browse and Upload image downloaded from https://www.invoiceninja.com/wp-content/uploads/2015/03/Invoice-1564-Creative-page-001.jpg
 
 Click on 'Process Invoice' Button
+(Wait...Wait...Please wait while algorithm is running at backend. Wait time depends on many factors.)
 
 You will see the recognized text from the image in second window. And required extracted information from text in third window, which further can be used in many ways.
 
